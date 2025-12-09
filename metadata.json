@@ -1,0 +1,5 @@
+{
+  "name": "Cookmate",
+  "description": "A smart, realistic recipe application powered by Gemini. Features curated collections like 'Top Chefs' and 'Mummy's Kitchen', with advanced dietary filtering and an integrated shopping list.",
+  "requestFramePermissions": []
+}
